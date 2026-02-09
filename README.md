@@ -1,6 +1,6 @@
 # CPU_Design
 
-This repository contains a simple educational CPU design in VHDL, inspired by classic RISC architectures often used in university courses (e.g. DTU). The goal is to provide a small but complete CPU core that can be used for learning, experiments, and small projects.
+This repository contains a simple educational CPU design in VHDL, inspired by classic RISC architectures often used in the tecnicasl university of denmark courses (e.g. DTU). The goal is to provide a small but complete CPU core that can be used for learning, experiments, and small projects.
 
 ### High-Level Idea
 
